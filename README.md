@@ -13,6 +13,6 @@
 
 <p>Data is used solely for informational purposes on the Discord server.</p>
 
-<p>Contact: your_email@example.com</p>
+<p>Contact: eggyrestusinggih@gmail.com</p>
 </body>
 </html>
